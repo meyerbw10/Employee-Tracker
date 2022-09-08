@@ -16,7 +16,7 @@
 
 ## Project Description 
 
-For our 10th Project I wanted to make a Employee Tracker. My projects are on display via Github, with clickable images as well as my resume in a clickable PDF file. 
+For our 10th Project I wanted to make a Employee Tracker. When I run the terminal, I am met with a set of choices that are to view an employee database that houses workers, departments and roles. when I select a prompt I want to View employees list, view roles list, and departments and then I want to create prompts to add to each list. My projects are on display via Github, with clickable images as well as my resume in a clickable PDF file. 
 
 ---
 
@@ -31,7 +31,7 @@ Link to deployed website: https://github.com/meyerbw10/Employee-Tracker
 ### Usage
 DEMO VIDEO:
 
-<!-- https://www.youtube.com/watch?v=THdh8gBNOcc -->
+https://www.youtube.com/watch?v=fmXqG0sf3So
 
 
 ---
@@ -45,7 +45,7 @@ SO THAT I can organize and plan my business
 ---
 
 #### Acceptance Criteria
-``
+
 GIVEN a command-line application that accepts user input
 WHEN I start the application
 THEN I am presented with the following options: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role
@@ -63,7 +63,7 @@ WHEN I choose to add an employee
 THEN I am prompted to enter the employee’s first name, last name, role, and manager, and that employee is added to the database
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
-``
+
 
 ---
 
@@ -85,9 +85,8 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 - Javascript
 - NodeJS
-- Tests
-- HTML
 - OOP
+- SQL
 
 ---
 
